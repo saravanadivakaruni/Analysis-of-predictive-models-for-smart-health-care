@@ -1,0 +1,14 @@
+#import graphviz
+#dot_data = tree.export_graphviz(modelDT, out_file=None ,filled=True, rounded=True,special_characters=True)
+#graph = graphviz.Source(dot_data, format='png')
+#graph.render("modelDT")
+#graph
+
+
+
+#import graphviz
+#from sklearn.tree import export_graphviz
+#dot_data = export_graphviz(modelRFC.estimators_[99],filled=True, impurity=True, rounded=True)
+#graph = graphviz.Source(dot_data, format='png')
+#graph.render("modelRFC")
+#graph
