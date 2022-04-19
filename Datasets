@@ -7,11 +7,4 @@ The Data Normalization process involves transforming the data to a specific rang
 Missing values are generally represented by NaN (Not a Number) or with a question mark (?), The machine learning model can give accurate predictions only if it has unbiased data. To deal with missing values kNN imputation method is used in this paper. The kNN imputer fills out the missing values in the datasets by using the Euclidian distance metric
 
 
-Dataset Links:
-[Activity recognition with healthy older people using a batteryless wearable sensor Data Set.](https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor)
-[Breast Cancer Wisconsin (Diagnostic) Data Set.](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
-[Cervical Cancer Behavior Risk Data Set.](https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk)
-[Haberman's Survival Data Set.](https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival)
-[Mammographic Mass Data Set.](https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
-[Parkinson's Data Set.](https://archive.ics.uci.edu/ml/datasets/Parkinsons)
-[SPECTF Heart Data Set.](https://archive.ics.uci.edu/ml/datasets/SPECTF+Heart)
+
