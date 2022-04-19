@@ -7,9 +7,15 @@ Machine learning is widely used in the biomedical industry to predict, diagnose,
 
 Dataset Links:
 [Activity recognition with healthy older people using a batteryless wearable sensor Data Set.](https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor)
+
 [Breast Cancer Wisconsin (Diagnostic) Data Set.](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29)
+
 [Cervical Cancer Behavior Risk Data Set.](https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk)
+
 [Haberman's Survival Data Set.](https://archive.ics.uci.edu/ml/datasets/Haberman%27s+Survival)
+
 [Mammographic Mass Data Set.](https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass)
+
 [Parkinson's Data Set.](https://archive.ics.uci.edu/ml/datasets/Parkinsons)
+
 [SPECTF Heart Data Set.](https://archive.ics.uci.edu/ml/datasets/SPECTF+Heart)
