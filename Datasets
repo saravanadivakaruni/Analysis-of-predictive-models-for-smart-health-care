@@ -1,3 +1,6 @@
+Data plays an important role in machine learning, without proper data we cannot train any machine learning algorithms and cannot predict outcomes. Data is used to improve machine learning algorithms to continuously operate efficiently. For the model to perform efficiently, training data is used to train a model for predictions and test data is used to make sure that the model is trained correctly.
+
+
 https://archive.ics.uci.edu/ml/datasets/Activity+recognition+with+healthy+older+people+using+a+batteryless+wearable+sensor
 https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 https://archive.ics.uci.edu/ml/datasets/Cervical+Cancer+Behavior+Risk
