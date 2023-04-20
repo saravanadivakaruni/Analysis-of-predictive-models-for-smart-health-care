@@ -6,7 +6,7 @@ Machine learning is widely used in the biomedical industry to predict, diagnose,
 
 As the growth of data in the biomedical industry is increasing exponentially, with this huge amount of data generated different machine learning algorithms can be implemented to focus and highlight the problem region and provide the required solution in the shortest duration possible. This project compares various algorithms on different healthcare data based on performance measures. The different supervised algorithms such as Decision Tree (DT), Random Forest (RF), Adaboost, Naive Bayes (NB), K-Nearest Neighbors (KNN), Support vector machine (SVM), and Multi-Layer Perceptron (MLP) are used for the classification process to measure the classification report with 8 different biomedical datasets. It is observed that the performance of the classifiers depends on the nature of the dataset.
 
-
+This project can be furthure developed by experimenting with more datasets, better data processing steps and deploying models into the real-world using Gradio, H20 wave etc..,
 
 Dataset Links:
 
